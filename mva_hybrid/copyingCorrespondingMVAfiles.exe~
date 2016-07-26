@@ -1,0 +1,6 @@
+cp ~/mva_hybrid/mva_PrHybridSeeding.cpp Pr/PrAlgorithms/src/PrHybridSeeding.cpp 
+cp ~/mva_hybrid/mva_PrHybridSeeding.h Pr/PrAlgorithms/src/PrHybridSeeding.h
+cp ~/mva_hybrid/mva_cmtRequirements Pr/PrAlgorithms/cmt/requirements 
+cp ~/mva_hybrid/mva_CMakeLists_InPr.txt Pr/PrAlgorithms/CMakeLists.txt
+cp ~/mva_hybrid/mva_FlagHits_MLP.h Pr/PrAlgorithms/src/weights/FlagHits_MLP.h
+cp ~/mva_hybrid/mva_PrHybridSeedTrack.h Pr/PrAlgorithms/src/PrHybridSeedTrack.h
